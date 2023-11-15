@@ -48,7 +48,7 @@ The app will now be running on `http://localhost:PORT/`
   GET /api/v1/users
 ```
 
-#### Get item
+#### Get user
 
 ```http
   GET /api/v1/users/:id
